@@ -18,4 +18,4 @@ WhiteMint Client signs players in with their own Microsoft account using the sta
 No cheats or features that give unfair advantages on multiplayer servers. WhiteMint Client is not affiliated with Mojang or Microsoft.
 
 ## Contact
-@whitemintclient@gmail.com
+whitemintclient@gmail.com
